@@ -1,6 +1,6 @@
 # Corona-Virus-Spread-Visualization
 
-This Visualization Project shows the increase in the number of cases over time across the globe from January- 10th April, 2020.
+This Visualization Project shows the increase in the number of cases over time across the globe from January 22nd, 2020 - 10th April, 2020.
 
 To view the html files, please use the following links:
 
